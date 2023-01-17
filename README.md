@@ -17,9 +17,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 1-3: _[Git - O que é e para que serve?](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-03-git-o-que-%C3%A9-e-para-que-serve)_
 - [ ] 1-4: _[Git & Github - Entendendo os comandos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-04-git-e-github-entendendo-os-comandos)_
 
-##### Bloco 2: [Introdução à HTML & CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end)
+##### Bloco 2: [Introdução à HTML & CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css)
 
-- [ ] 2-1: _HTML & CSS - Estruturas de página_
+- [ ] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-01-HTML-e-CSS-estruturas-de-pagina)_
 - [ ] 2-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 2-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 2-4: _HTML Semântico_
