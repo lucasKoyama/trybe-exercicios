@@ -20,7 +20,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 2: [Introdução à HTML & CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css)
 
 - [ ] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-01-HTML-e-CSS-estruturas-de-pagina)_
-- [ ] 2-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 2-3: _HTML & CSS - Seletores e posicionamento_
+- [ ] 2-2: _[HTML & CSS - Primeiros passos em CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-02-HTML-e-CSS-primeiros-passos-em-CSS)_
+- [ ] 2-3: _[HTML & CSS - Seletores e posicionamento](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-03-HTML-e-CSS-seletores-e-posicionamento)_
 - [ ] 2-4: _HTML Semântico_
 - [ ] 2-5: _Projeto - Lessons Learned_
