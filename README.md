@@ -41,46 +41,124 @@
 
   #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]() - em breve! :hourglass_flowing_sand:
 
-  #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]() - em breve! :hourglass_flowing_sand:
+  - [ ] 4-1: _[JavaScript - DOM e seletores]()_
+  - [ ] 4-2: _[JavaScript - Trabalhando com elementos]()_
+  - [ ] 4-3: _[JavaScript - Eventos]()_
+  - [ ] 4-4: _[JavaScript - Web Storage]()_
+  - [ ] 4-5: _[Projeto - Arte com Pixels]()_
+  - [ ] 4-6: _[Projetos Bônus]()_
 
-  #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]()
 
-  #### Bloco 7: [Higher Order Functions do JavaScript ES6]() - em breve! :hourglass_flowing_sand:
+  - [ ] 5-1: _[HTML & CSS - Forms]()_
+  - [ ] 5-2: _[Bibliotecas JavaScript e Frameworks CSS]()_
+  - [ ] 5-3: _[CSS Flexbox - Parte 1]()_
+  - [ ] 5-4: _[CSS Flexbox - Parte 2]()_
+  - [ ] 5-5: _[CSS Responsivo - Mobile First]()_
+  - [ ] 5-6: _[Projeto - Trybewarts]()_
+
+  #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
+  
+  - [ ] 6-1: _[Fluxo de exceções e manipulação de objetos]()_
+  - [ ] 6-2: _[Primeiros passos em Jest]()_
+  - [ ] 6-3: _[Matchers e cobertura de código]()_
+  - [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
+
+  #### Bloco 7: [Higher Order Functions do JavaScript ES6]()
+
+  - [ ] 7-1: _[Introdução a Higher Order Functions]()_
+  - [ ] 7-1: _[Higher Order Functions - sort e map]()_
+  - [ ] 7-1: _[Higher Order Functions - filter e reduce]()_
+  - [ ] 7-1: _[JavaScript ES6 - spread operator, rest parameters e object destructuring]()_
+  - [ ] 7-1: _[JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters]()_
+  - [ ] 7-1: _[Projeto - Zoo functions]()_
 
   ## [Front-end]() :hourglass_flowing_sand:
 
-  #### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 2: [Introdução ao React]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 3: [Componentes com Estado, Eventos e Formulários com React]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 4: [Ciclo de Vida de Componentes e React Router]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 5: [Metodologias Ágeis]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 6: [Testes automatizados com React Testing Library]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 7: [Gerenciamento de estado com Redux]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 8: [Projeto Jogo de Trivia]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 9: [Context API e React Hooks]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 10: [Projeto App de Receitas]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono]()
+
+  - [ ] 1-1: _[Ambiente de desenvolvimento]()_
+  - [ ] 1-2: _[JavaScript Assíncrono - Promises e fetch]()_
+  - [ ] 1-3: _[Prática - Casa de câmbio]()_
+  - [ ] 1-4: _[Async, await e testes assíncronos]()_
+  - [ ] 1-5: _[Projeto - Carrinho de compras]()_
+
+  #### Bloco 2: [Introdução ao React]()
+
+    - [ ] 2-1: _['Hello, world!' no React!]()_
+    - [ ] 2-2: _[Componentes React]()_
+    - [ ] 2-3: _[Projeto - Solar System]()_
+
+  #### Bloco 3: [Componentes com Estado, Eventos e Formulários com React]()
+
+    - [ ] 3-1: _[Componentes com estado e eventos]()_
+    - [ ] 3-2: _[Formulários no React]()_
+    - [ ] 3-3: _[Projeto - Tryunfo]()_
+
+  #### Bloco 4: [Ciclo de Vida de Componentes e React Router]()
+
+    - [ ] 4-1: _[Ciclo de vida de componentes]()_
+    - [ ] 4-2: _[React Router]()_
+    - [ ] 4-3: _[Projeto - TrybeTunes]()_
+  
+  #### Bloco 5: [Metodologias Ágeis]()
+
+    - [ ] 5-1: _[Metodologias Ágeis]()_
+    - [ ] 5-2: _[Projeto - Front-end Online Store]()_
+
+  #### Bloco 6: [Testes automatizados com React Testing Library]()
+
+    - [ ] 6-1: _[RTL - Primeiros passos]()_
+    - [ ] 6-2: _[RTL - Mocks e Inputs]()_
+    - [ ] 6-3: _[RTL - Testando React Router]()_
+    - [ ] 6-4: _[Projeto - Testes em React]()_
+
+  #### Bloco 7: [Gerenciamento de estado com Redux]()
+
+    - [ ] 7-1: _[Introdução ao Redux - O estado global da aplicação]()_
+    - [ ] 7-2: _[Usando o Redux no React]()_
+    - [ ] 7-3: _[Usando o Redux no React - Prática]()_
+    - [ ] 7-4: _[Usando o Redux no React - Actions Assíncronas]()_
+    - [ ] 7-5: _[Testes em React-Redux]()_
+    - [ ] 7-6: _[Projeto - Trybe Wallet]()_
+
+  #### Bloco 8: [Projeto Jogo de Trivia]()
+
+    - [ ] 8-1: _[Projeto - Jogo de Trivia]()_
+
+  #### Bloco 9: [Context API e React Hooks]()
+
+    - [ ] 9-1: _[React Hooks - useState e useEffect]()_
+    - [ ] 9-1: _[Context API]()_
+    - [ ] 9-1: _[Custom Hooks]()_
+    - [ ] 9-1: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+  #### Bloco 10: [Projeto App de Receitas]()
+
+    - [ ] 10-1: _[Projeto - App de Receitas]()_
+
 
   ## [Back-end]() :hourglass_flowing_sand:
 
-  #### Bloco 1: [1. Docker: Utilizando Containers]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 2: [2. Introdução à SQL]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 3: [3. Funções SQL, JOINs e Normalização]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 4: [4. Introdução ao desenvolvimento Web com Node.js]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 5: [5. Arquitetura de Software: Model, Service e Controller]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 6: [6. Node.js: ORM e Autenticação]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 7: [7. Masterclass: Implantação de Aplicações na Nuvem]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 8: [8. Introdução a TypeScript]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 9: [9. Programação Orientada a Objetos (POO) e SOLID]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 10: [10. Projeto - TFC - Trybe Futebol Clube]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 11: [11. Introdução ao MongoDB]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 12: [12. APIs OO e NoSQL]() - em breve! :hourglass_flowing_sand:
-  #### Bloco 13: [13. Projeto - App de Delivery]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 1: [1. Docker: Utilizando Containers]()
+  #### Bloco 2: [2. Introdução à SQL]()
+  #### Bloco 3: [3. Funções SQL, JOINs e Normalização]()
+  #### Bloco 4: [4. Introdução ao desenvolvimento Web com Node.js]()
+  #### Bloco 5: [5. Arquitetura de Software: Model, Service e Controller]()
+  #### Bloco 6: [6. Node.js: ORM e Autenticação]()
+  #### Bloco 7: [7. Masterclass: Implantação de Aplicações na Nuvem]()
+  #### Bloco 8: [8. Introdução a TypeScript]()
+  #### Bloco 9: [9. Programação Orientada a Objetos (POO) e SOLID]()
+  #### Bloco 10: [10. Projeto - TFC - Trybe Futebol Clube]()
+  #### Bloco 11: [11. Introdução ao MongoDB]()
+  #### Bloco 12: [12. APIs OO e NoSQL]()
+  #### Bloco 13: [13. Projeto - App de Delivery]()
 
   ## [Ciência da Computação]() :hourglass_flowing_sand:
 
-  #### Bloco : [1. Introdução à Python]() - em breve! :hourglass_flowing_sand:
-  #### Bloco : [2. Padrões de Projeto]() - em breve! :hourglass_flowing_sand:
-  #### Bloco : [3. Redes e Raspagem de Dados]() - em breve! :hourglass_flowing_sand:
-  #### Bloco : [4. Algoritmos]() - em breve! :hourglass_flowing_sand:
-  #### Bloco : [5. Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]() - em breve! :hourglass_flowing_sand:
-  #### Bloco : [6. Estrutura de Dados II: Hashmaps e Sets]() - em breve! :hourglass_flowing_sand:
+  #### Bloco : [1. Introdução à Python]()
+  #### Bloco : [2. Padrões de Projeto]()
+  #### Bloco : [3. Redes e Raspagem de Dados]()
+  #### Bloco : [4. Algoritmos]()
+  #### Bloco : [5. Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]()
+  #### Bloco : [6. Estrutura de Dados II: Hashmaps e Sets]() - em breve!
