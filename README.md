@@ -1,26 +1,48 @@
-# Trybe - Exercícios
-Exercícios e projetos realizados durante o curso da Trybe
+  # Trybe - Exercícios
+  Exercícios e projetos realizados durante o curso da Trybe
 
-# Meu repositório de exercícios Trybe
-Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/lucas-koyama/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
+  # Meu repositório de exercícios Trybe
+  Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/lucas-koyama/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
 
-""A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
+> A Trybe é uma escola do futuro para qualquer pessoa que queira
+> melhorar de vida e construir uma carreira de sucesso em tecnologia,
+> onde a pessoa só paga quando conseguir um bom trabalho.
+> 
+> O programa conta com mais de 1.500 horas de aulas presenciais e
+> online, aborda introdução ao desenvolvimento de software, front-end,
+> back-end, ciência da computação, engenharia de software, metodologias
+> ágeis e habilidades comportamentais.
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.""
+  ## [Fundamentos do Desenvolvimento Web](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos) :heavy_check_mark:
 
-## [Fundamentos do Desenvolvimento Web](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos) :heavy_check_mark:
+  ##### Bloco 1: [Unix, Shell e Git](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git)
 
-##### Bloco 1: [Unix, Shell e Git](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git)
+  - [x] 1-1: _[Unix & Bash- Parte 1](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-01-unix-e-bash-parte-1)_
+  - [x] 1-2: _[Unix & Bash- Parte 2](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-02-unix-e-bash-parte-2)_
+  - [x] 1-3: _[Git - O que é e para que serve?](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-03-git-o-que-%C3%A9-e-para-que-serve)_
+  - [x] 1-4: _[Git & Github - Entendendo os comandos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-04-git-e-github-entendendo-os-comandos)_
 
-- [ ] 1-1: _[Unix & Bash- Parte 1](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-01-unix-e-bash-parte-1)_
-- [ ] 1-2: _[Unix & Bash- Parte 2](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-02-unix-e-bash-parte-2)_
-- [ ] 1-3: _[Git - O que é e para que serve?](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-03-git-o-que-%C3%A9-e-para-que-serve)_
-- [ ] 1-4: _[Git & Github - Entendendo os comandos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-01-unix-shell-e-git/dia-04-git-e-github-entendendo-os-comandos)_
+  ##### Bloco 2: [Introdução à HTML & CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css)
 
-##### Bloco 2: [Introdução à HTML & CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css)
+  - [x] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-01-HTML-e-CSS-estruturas-de-pagina)_
+  - [x] 2-2: _[HTML & CSS - Primeiros passos em CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-02-HTML-e-CSS-primeiros-passos-em-CSS)_
+  - [x] 2-3: _[HTML & CSS - Seletores e posicionamento](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-03-HTML-e-CSS-seletores-e-posicionamento)_
+  - [x] 2-4: _[HTML Semântico](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-04-HTML-semantico/elementos-de-bloco-e-elementos-inline)_
+  - [x] 2-5: _[Projeto - Lessons Learned]()_
 
-- [ ] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-01-HTML-e-CSS-estruturas-de-pagina)_
-- [ ] 2-2: _[HTML & CSS - Primeiros passos em CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-02-HTML-e-CSS-primeiros-passos-em-CSS)_
-- [ ] 2-3: _[HTML & CSS - Seletores e posicionamento](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-03-HTML-e-CSS-seletores-e-posicionamento)_
-- [ ] 2-4: _HTML Semântico_
-- [ ] 2-5: _Projeto - Lessons Learned_
+  ##### Bloco 3: [Introdução à JavaScript](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript)
+
+  - [x] 3-1: _[JavaScript - Primeiros passos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-01-javascript-primeiros-passos)_
+  - [x] 3-2: _[JavaScript - Array e loop For](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-02-javascript-array-e-loop-for)_
+  - [ ] 3-3: _[JavaScript - Lógica de Programação e Algoritmos]()_
+  - [ ] 3-4: _[JavaScript - Objetos e funções]()_
+  - [ ] 3-5: _[JavaScript ES6 - let, const, arrow functions e template literals]()_
+  - [ ] 3-6: _[Projeto - Playground Functions]()_
+
+  #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]() - em breve! :hourglass_flowing_sand:
+
+  ## [Front-end]() :hourglass_flowing_sand:
+
+  ## [Back-end]() :hourglass_flowing_sand:
+
+  ## [Ciência da Computação]() :hourglass_flowing_sand:
