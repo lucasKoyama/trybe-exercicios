@@ -4,14 +4,14 @@
   # Meu repositório de exercícios Trybe
   Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/lucas-koyama/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
 
-> A Trybe é uma escola do futuro para qualquer pessoa que queira
-> melhorar de vida e construir uma carreira de sucesso em tecnologia,
-> onde a pessoa só paga quando conseguir um bom trabalho.
-> 
-> O programa conta com mais de 1.500 horas de aulas presenciais e
-> online, aborda introdução ao desenvolvimento de software, front-end,
-> back-end, ciência da computação, engenharia de software, metodologias
-> ágeis e habilidades comportamentais.
+  > A Trybe é uma escola do futuro para qualquer pessoa que queira
+  > melhorar de vida e construir uma carreira de sucesso em tecnologia,
+  > onde a pessoa só paga quando conseguir um bom trabalho.
+  > 
+  > O programa conta com mais de 1.500 horas de aulas presenciais e
+  > online, aborda introdução ao desenvolvimento de software, front-end,
+  > back-end, ciência da computação, engenharia de software, metodologias
+  > ágeis e habilidades comportamentais.
 
   ## [Fundamentos do Desenvolvimento Web](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos) :heavy_check_mark:
 
@@ -41,7 +41,24 @@
 
   #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]() - em breve! :hourglass_flowing_sand:
 
+  #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]() - em breve! :hourglass_flowing_sand:
+
+  #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]() - em breve! :hourglass_flowing_sand:
+
+  #### Bloco 7: [Higher Order Functions do JavaScript ES6]() - em breve! :hourglass_flowing_sand:
+
   ## [Front-end]() :hourglass_flowing_sand:
+
+  #### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 2: [Introdução ao React]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 3: [Componentes com Estado, Eventos e Formulários com React]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 4: [Ciclo de Vida de Componentes e React Router]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 5: [Metodologias Ágeis]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 6: [Testes automatizados com React Testing Library]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 7: [Gerenciamento de estado com Redux]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 8: [Projeto Jogo de Trivia]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 9: [Context API e React Hooks]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 10: [Projeto App de Receitas]() - em breve! :hourglass_flowing_sand:
 
   ## [Back-end]() :hourglass_flowing_sand:
 
