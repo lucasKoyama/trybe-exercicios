@@ -85,57 +85,57 @@
 
   #### Bloco 2: [Introdução ao React]()
 
-    - [ ] 2-1: _['Hello, world!' no React!]()_
-    - [ ] 2-2: _[Componentes React]()_
-    - [ ] 2-3: _[Projeto - Solar System]()_
+  - [ ] 2-1: _['Hello, world!' no React!]()_
+  - [ ] 2-2: _[Componentes React]()_
+  - [ ] 2-3: _[Projeto - Solar System]()_
 
   #### Bloco 3: [Componentes com Estado, Eventos e Formulários com React]()
 
-    - [ ] 3-1: _[Componentes com estado e eventos]()_
-    - [ ] 3-2: _[Formulários no React]()_
-    - [ ] 3-3: _[Projeto - Tryunfo]()_
+  - [ ] 3-1: _[Componentes com estado e eventos]()_
+  - [ ] 3-2: _[Formulários no React]()_
+  - [ ] 3-3: _[Projeto - Tryunfo]()_
 
   #### Bloco 4: [Ciclo de Vida de Componentes e React Router]()
 
-    - [ ] 4-1: _[Ciclo de vida de componentes]()_
-    - [ ] 4-2: _[React Router]()_
-    - [ ] 4-3: _[Projeto - TrybeTunes]()_
+  - [ ] 4-1: _[Ciclo de vida de componentes]()_
+  - [ ] 4-2: _[React Router]()_
+  - [ ] 4-3: _[Projeto - TrybeTunes]()_
   
   #### Bloco 5: [Metodologias Ágeis]()
 
-    - [ ] 5-1: _[Metodologias Ágeis]()_
-    - [ ] 5-2: _[Projeto - Front-end Online Store]()_
+  - [ ] 5-1: _[Metodologias Ágeis]()_
+  - [ ] 5-2: _[Projeto - Front-end Online Store]()_
 
   #### Bloco 6: [Testes automatizados com React Testing Library]()
 
-    - [ ] 6-1: _[RTL - Primeiros passos]()_
-    - [ ] 6-2: _[RTL - Mocks e Inputs]()_
-    - [ ] 6-3: _[RTL - Testando React Router]()_
-    - [ ] 6-4: _[Projeto - Testes em React]()_
+  - [ ] 6-1: _[RTL - Primeiros passos]()_
+  - [ ] 6-2: _[RTL - Mocks e Inputs]()_
+  - [ ] 6-3: _[RTL - Testando React Router]()_
+  - [ ] 6-4: _[Projeto - Testes em React]()_
 
   #### Bloco 7: [Gerenciamento de estado com Redux]()
 
-    - [ ] 7-1: _[Introdução ao Redux - O estado global da aplicação]()_
-    - [ ] 7-2: _[Usando o Redux no React]()_
-    - [ ] 7-3: _[Usando o Redux no React - Prática]()_
-    - [ ] 7-4: _[Usando o Redux no React - Actions Assíncronas]()_
-    - [ ] 7-5: _[Testes em React-Redux]()_
-    - [ ] 7-6: _[Projeto - Trybe Wallet]()_
+  - [ ] 7-1: _[Introdução ao Redux - O estado global da aplicação]()_
+  - [ ] 7-2: _[Usando o Redux no React]()_
+  - [ ] 7-3: _[Usando o Redux no React - Prática]()_
+  - [ ] 7-4: _[Usando o Redux no React - Actions Assíncronas]()_
+  - [ ] 7-5: _[Testes em React-Redux]()_
+  - [ ] 7-6: _[Projeto - Trybe Wallet]()_
 
   #### Bloco 8: [Projeto Jogo de Trivia]()
 
-    - [ ] 8-1: _[Projeto - Jogo de Trivia]()_
+  - [ ] 8-1: _[Projeto - Jogo de Trivia]()_
 
   #### Bloco 9: [Context API e React Hooks]()
 
-    - [ ] 9-1: _[React Hooks - useState e useEffect]()_
-    - [ ] 9-1: _[Context API]()_
-    - [ ] 9-1: _[Custom Hooks]()_
-    - [ ] 9-1: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+  - [ ] 9-1: _[React Hooks - useState e useEffect]()_
+  - [ ] 9-1: _[Context API]()_
+  - [ ] 9-1: _[Custom Hooks]()_
+  - [ ] 9-1: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
   #### Bloco 10: [Projeto App de Receitas]()
 
-    - [ ] 10-1: _[Projeto - App de Receitas]()_
+  - [ ] 10-1: _[Projeto - App de Receitas]()_
 
 
   ## [Back-end]() :hourglass_flowing_sand:
