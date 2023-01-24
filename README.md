@@ -73,7 +73,7 @@
   - [ ] 7-1: _[JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters]()_
   - [ ] 7-1: _[Projeto - Zoo functions]()_
 
-  ## [Front-end]() :hourglass_flowing_sand:
+  ## [Front-end](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end) :hourglass_flowing_sand:
 
   #### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono]()
 
@@ -138,7 +138,7 @@
   - [ ] 10-1: _[Projeto - App de Receitas]()_
 
 
-  ## [Back-end]() :hourglass_flowing_sand:
+  ## [Back-end](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-03-back-end) :hourglass_flowing_sand:
 
   #### Bloco 1: [1. Docker: Utilizando Containers]()
 
@@ -229,7 +229,7 @@
 
   - [ ] 13-1: _[Projeto - App de Delivery]()_
 
-  ## [Ciência da Computação]() :hourglass_flowing_sand:
+  ## [Ciência da Computação](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-04-ciencia-da-computacao) :hourglass_flowing_sand:
 
   #### Bloco : [1. Introdução à Python]()
 
