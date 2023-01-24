@@ -62,4 +62,25 @@
 
   ## [Back-end]() :hourglass_flowing_sand:
 
+  #### Bloco 1: [1. Docker: Utilizando Containers]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 2: [2. Introdução à SQL]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 3: [3. Funções SQL, JOINs e Normalização]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 4: [4. Introdução ao desenvolvimento Web com Node.js]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 5: [5. Arquitetura de Software: Model, Service e Controller]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 6: [6. Node.js: ORM e Autenticação]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 7: [7. Masterclass: Implantação de Aplicações na Nuvem]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 8: [8. Introdução a TypeScript]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 9: [9. Programação Orientada a Objetos (POO) e SOLID]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 10: [10. Projeto - TFC - Trybe Futebol Clube]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 11: [11. Introdução ao MongoDB]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 12: [12. APIs OO e NoSQL]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 13: [13. Projeto - App de Delivery]() - em breve! :hourglass_flowing_sand:
+
   ## [Ciência da Computação]() :hourglass_flowing_sand:
+
+  #### Bloco : [1. Introdução à Python]() - em breve! :hourglass_flowing_sand:
+  #### Bloco : [2. Padrões de Projeto]() - em breve! :hourglass_flowing_sand:
+  #### Bloco : [3. Redes e Raspagem de Dados]() - em breve! :hourglass_flowing_sand:
+  #### Bloco : [4. Algoritmos]() - em breve! :hourglass_flowing_sand:
+  #### Bloco : [5. Estrutura de Dados I: Arrays, Listas, Filas e Pilhas]() - em breve! :hourglass_flowing_sand:
+  #### Bloco : [6. Estrutura de Dados II: Hashmaps e Sets]() - em breve! :hourglass_flowing_sand:
