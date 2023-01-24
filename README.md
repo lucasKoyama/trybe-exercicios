@@ -39,7 +39,7 @@
   - [ ] 3-5: _[JavaScript ES6 - let, const, arrow functions e template literals]()_
   - [ ] 3-6: _[Projeto - Playground Functions]()_
 
-  #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]() - em breve! :hourglass_flowing_sand:
+  #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
 
   - [ ] 4-1: _[JavaScript - DOM e seletores]()_
   - [ ] 4-2: _[JavaScript - Trabalhando com elementos]()_
@@ -267,7 +267,7 @@
   - [ ] 5-4: _[Pilhas e Filas]()_
   - [ ] 5-5: _[Projeto - TING - Trybe Is Not Google]()_
 
-  #### Bloco : [6. Estrutura de Dados II: Hashmaps e Sets]() - em breve!
+  #### Bloco : [6. Estrutura de Dados II: Hashmaps e Sets]()
 
   - [ ] 6-1: _[Hashmap e Dict]()_
   - [ ] 6-2: _[Set]()_
