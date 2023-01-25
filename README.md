@@ -1,7 +1,7 @@
   # Trybe - Exercícios
   Exercícios e projetos realizados durante o curso da Trybe
 
-  # Meu repositório de exercícios Trybe
+  # Meu repositório de exercícios e projetos da Trybe
   Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/lucas-koyama/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
 
   > A **Trybe é uma escola do futuro** para qualquer pessoa que queira
@@ -13,20 +13,25 @@
   > **síncrono** (aulas ao vivo, mentorias técnicas e de carreira, e dinâmicas para
   > desenvolvimento comportamental, soft skills) **o conteúdo é dividido em:** 
   > 
-  > 1. **Introdução ao desenvolvimento de software**(*internet, git & github, unix & shell, slack, zoom)*;
-  > 2. **front-end** (aprofundamentos em *HTML, CSS e JavaSript* após ter visto no introdutório e *React*)
+  > 1. **Introdução ao desenvolvimento de software**(*internet, git & github, unix & shell, slack e zoom)*;
+  > 2. **front-end** (aprofundamentos após ter visto no introdutório em *HTML, CSS e JavaSript* mais *React*)
   > 3. **back-end** (*Data base, SQL, Testes unitários, Server-side, Node, Docker* e muuuito mais);
-  > 4. **ciência da computação** (*Algoritmos, Python, Raspagem e Estrutura de dados)*;
-  > 5. **soft skills** (*dinâmicas, leituras e atividades reflexivas de comportamentos e feedbacks no final*);
+  > 4. **ciência da computação** (*Algoritmos, Python, raspagem de dados e estrutura de dados)*;
+  > 5. **soft skills** (*dinâmicas, leituras e atividades reflexivas sobre comportamentos e feedbacks no final*);
   > 6. **carreira** (*preparação para entrevistas, currículo, portfolio, orientações gerais do que apresentar*);
   > 7. **desenvolvimento Web: Vida Real***(dicas de experientes da area de como passar pelas dificuldades da melhor forma o possível, como também dicas para aumentar a produtividade no geral)*
   >
-  >Vale ressaltar que os **4 módulos** são dados em trimestre **paralelo com as
+  >Vale ressaltar que os **4 módulos** são dados por trimestre em **paralelo com as
   >soft skills e as dicas para o desenvolvimento web na vida real** e por fim
   >**orientações para uma carreira de sucesso!** :rocket:
   >
   >Além de tudo isso temos fechamentos e talks (paletras) com assuntos como, diversidade, gestão 
   >do tempo metodologias ágeis, como aprender a aprender e vários outros assuntos de grande valor!
+
+  Dito isso, aqui está todo meu conteúdo realizado na Trybe, dividido por módulos,
+  e seus conteúdos dos dias, assim como meus exercícios e projetos realizados!
+
+  *observação: os conteúdos finalizados (marcados com o cheque :white_check_mark:) contém hyperlinks que redirecionam para o conteúdo, já os que não contém o "cheque" ainda serão realizados ou atualizados!*
 
   ## [Fundamentos do Desenvolvimento Web](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos) :heavy_check_mark:
 
