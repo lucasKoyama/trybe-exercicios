@@ -56,7 +56,7 @@
   - [x] 3-2: _[JavaScript - Array e loop For](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-02-javascript-array-e-loop-for)_
   - [x] 3-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-03-javacsript-logica-de-programacao-e-algoritmos)_
   - [x] 3-4: _[JavaScript - Objetos e funções](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-04-javascript-objetos-e-funcoes)_
-  - [ ] 3-5: _[JavaScript ES6 - let, const, arrow functions e template literals]()_
+  - [x] 3-5: _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-05-javascript-ES6-let-const-arrow-function-e-template-literals)_
   - [ ] 3-6: _[Projeto - Playground Functions]()_
 
   #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
