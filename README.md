@@ -48,7 +48,7 @@
   - [x] 2-2: _[HTML & CSS - Primeiros passos em CSS](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-02-HTML-e-CSS-primeiros-passos-em-CSS)_
   - [x] 2-3: _[HTML & CSS - Seletores e posicionamento](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-03-HTML-e-CSS-seletores-e-posicionamento)_
   - [x] 2-4: _[HTML Semântico](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-02-introducao-a-html-e-css/dia-04-HTML-semantico/elementos-de-bloco-e-elementos-inline)_
-  - [x] 2-5: _[Projeto - Lessons Learned]()_
+  - [x] 2-5: _[Projeto - Lessons Learned](https://github.com/lucasKoyama/Trybe-projetos/tree/main/project-lessons-learned)_
 
   ##### Bloco 3: [Introdução à JavaScript](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript)
 
@@ -57,11 +57,11 @@
   - [x] 3-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-03-javacsript-logica-de-programacao-e-algoritmos)_
   - [x] 3-4: _[JavaScript - Objetos e funções](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-04-javascript-objetos-e-funcoes)_
   - [x] 3-5: _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-05-javascript-ES6-let-const-arrow-function-e-template-literals)_
-  - [ ] 3-6: _[Projeto - Playground Functions]()_
+  - [x] 3-6: _[Projeto - Playground Functions](https://github.com/lucasKoyama/Trybe-projetos/tree/main/project-playground-functions)_
 
   #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
 
-  - [ ] 4-1: _[JavaScript - DOM e seletores]()_
+  - [x] 4-1: _[JavaScript - DOM e seletores](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/exercises/seletores)_
   - [ ] 4-2: _[JavaScript - Trabalhando com elementos]()_
   - [ ] 4-3: _[JavaScript - Eventos]()_
   - [ ] 4-4: _[JavaScript - Web Storage]()_
