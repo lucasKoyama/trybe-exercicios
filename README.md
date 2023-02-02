@@ -63,7 +63,7 @@
 
   - [x] 4-1: _[JavaScript - DOM e seletores](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/exercises/seletores)_
   - [x] 4-2: _[JavaScript - Trabalhando com elementos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/dia-02-javascript-trabalhando-com-elementos)_
-  - [ ] 4-3: _[JavaScript - Eventos]()_
+  - [x] 4-3: _[JavaScript - Eventos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/dia-03-javascript-eventos)_
   - [ ] 4-4: _[JavaScript - Web Storage]()_
   - [ ] 4-5: _[Projeto - Arte com Pixels]()_
   - [ ] 4-6: _[Projetos Bônus]()_
