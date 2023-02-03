@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.text {
+  background-color: black;
+  color: white;
+  font-size: 20pt;
+  line-height: 1.5;
+  font-family: Arial;
+  font-family: 'Times New Roman';
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px; 
+}
+
+.config {
+  display: inline-block;
+  margin: 20px 6%;
+}
+
+button {
+  width: 100%;
+}
