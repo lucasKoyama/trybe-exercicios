@@ -65,12 +65,12 @@
   - [x] 4-2: _[JavaScript - Trabalhando com elementos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/dia-02-javascript-trabalhando-com-elementos)_
   - [x] 4-3: _[JavaScript - Eventos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/dia-03-javascript-eventos)_
   - [x] 4-4: _[JavaScript - Web Storage](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/dia-04-javascript-web-storage)_
-  - [ ] 4-5: _[Projeto - Arte com Pixels]()_
+  - [x] 4-5: _[Projeto - Arte com Pixels]()_
   - [ ] 4-6: _[Projetos Bônus]()_
 
   #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]()
 
-  - [ ] 5-1: _[HTML & CSS - Forms]()_
+  - [x] 5-1: _[HTML & CSS - Forms](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)_
   - [ ] 5-2: _[Bibliotecas JavaScript e Frameworks CSS]()_
   - [ ] 5-3: _[CSS Flexbox - Parte 1]()_
   - [ ] 5-4: _[CSS Flexbox - Parte 2]()_
