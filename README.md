@@ -71,9 +71,9 @@
   #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]()
 
   - [x] 5-1: _[HTML & CSS - Forms](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)_
-  - [ ] 5-2: _[Bibliotecas JavaScript e Frameworks CSS]()_
-  - [ ] 5-3: _[CSS Flexbox - Parte 1]()_
-  - [ ] 5-4: _[CSS Flexbox - Parte 2]()_
+  - [x] 5-2: _[Bibliotecas JavaScript e Frameworks CSS]()_
+  - [x] 5-3: _[CSS Flexbox - Parte 1](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo/dia-03-css-flexbox-parte-1/exer-Introdu%C3%A7%C3%A3o-flex-direction-flex-wrap-flex-flow-e-reverse)_
+  - [x] 5-4: _[CSS Flexbox - Parte 2](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo/dia-04-css-flexbox-parte-2)_
   - [ ] 5-5: _[CSS Responsivo - Mobile First]()_
   - [ ] 5-6: _[Projeto - Trybewarts]()_
 
