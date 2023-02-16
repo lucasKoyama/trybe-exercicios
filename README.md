@@ -74,12 +74,12 @@
   - [x] 5-2: _[Bibliotecas JavaScript e Frameworks CSS]()_
   - [x] 5-3: _[CSS Flexbox - Parte 1](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo/dia-03-css-flexbox-parte-1/exer-Introdu%C3%A7%C3%A3o-flex-direction-flex-wrap-flex-flow-e-reverse)_
   - [x] 5-4: _[CSS Flexbox - Parte 2](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo/dia-04-css-flexbox-parte-2)_
-  - [ ] 5-5: _[CSS Responsivo - Mobile First]()_
-  - [ ] 5-6: _[Projeto - Trybewarts]()_
+  - [x] 5-5: _[CSS Responsivo - Mobile First](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)_
+  - [x] 5-6: _[Projeto - Trybewarts]()_
 
   #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
   
-  - [ ] 6-1: _[Fluxo de exceções e manipulação de objetos]()_
+  - [x] 6-1: _[Fluxo de exceções e manipulação de objetos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)_
   - [ ] 6-2: _[Primeiros passos em Jest]()_
   - [ ] 6-3: _[Matchers e cobertura de código]()_
   - [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
