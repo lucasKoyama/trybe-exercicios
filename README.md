@@ -80,8 +80,8 @@
   #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
   
   - [x] 6-1: _[Fluxo de exceções e manipulação de objetos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)_
-  - [ ] 6-2: _[Primeiros passos em Jest]()_
-  - [ ] 6-3: _[Matchers e cobertura de código]()_
+  - [x] 6-2: _[Primeiros passos em Jest](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios/dia-02-primeiros-passos-em-jest/my_new_project)_
+  - [x] 6-3: _[Matchers e cobertura de código](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo/fixacao-testes)_
   - [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
 
   #### Bloco 7: [Higher Order Functions do JavaScript ES6]()
