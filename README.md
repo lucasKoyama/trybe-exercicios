@@ -59,7 +59,7 @@
   - [x] 3-5: _[JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-javascript/dia-05-javascript-ES6-let-const-arrow-function-e-template-literals)_
   - [x] 3-6: _[Projeto - Playground Functions](https://github.com/lucasKoyama/Trybe-projetos/tree/main/project-playground-functions)_
 
-  #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage]()
+  #### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores)
 
   - [x] 4-1: _[JavaScript - DOM e seletores](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/exercises/seletores)_
   - [x] 4-2: _[JavaScript - Trabalhando com elementos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-javascript-dom-e-seletores/dia-02-javascript-trabalhando-com-elementos)_
@@ -68,7 +68,7 @@
   - [x] 4-5: _[Projeto - Arte com Pixels]()_
   - [ ] 4-6: _[Projetos Bônus]()_
 
-  #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo]()
+  #### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)
 
   - [x] 5-1: _[HTML & CSS - Forms](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)_
   - [x] 5-2: _[Bibliotecas JavaScript e Frameworks CSS]()_
@@ -77,49 +77,49 @@
   - [x] 5-5: _[CSS Responsivo - Mobile First](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)_
   - [x] 5-6: _[Projeto - Trybewarts]()_
 
-  #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
+  #### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
   
   - [x] 6-1: _[Fluxo de exceções e manipulação de objetos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)_
   - [x] 6-2: _[Primeiros passos em Jest](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios/dia-02-primeiros-passos-em-jest/my_new_project)_
   - [x] 6-3: _[Matchers e cobertura de código](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo/fixacao-testes)_
-  - [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
+  - [x] 6-4: _[Projeto - JavaScript Testes Unitários]()_
 
-  #### Bloco 7: [Higher Order Functions do JavaScript ES6]()
+  #### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-07-higher-order-functions-do-javascript-e6s)
 
-  - [ ] 7-1: _[Introdução a Higher Order Functions]()_
-  - [ ] 7-2: _[Higher Order Functions - sort e map]()_
-  - [ ] 7-3: _[Higher Order Functions - filter e reduce]()_
-  - [ ] 7-4: _[JavaScript ES6 - spread operator, rest parameters e object destructuring]()_
-  - [ ] 7-5: _[JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters]()_
-  - [ ] 7-6: _[Projeto - Zoo functions]()_
+  - [x] 7-1: _[Introdução a Higher Order Functions](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-07-higher-order-functions-do-javascript-e6s/dia-01-introducao-a-higher-order-functions)_
+  - [x] 7-2: _[Higher Order Functions - sort e map](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-07-higher-order-functions-do-javascript-e6s/dia-02-hofs-sort-e-map)_
+  - [x] 7-3: _[Higher Order Functions - filter e reduce](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-07-higher-order-functions-do-javascript-e6s/dia-03-hofs-filter-e-reduce)_
+  - [x] 7-4: _[JavaScript ES6 - spread operator, rest parameters e object destructuring](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-07-higher-order-functions-do-javascript-e6s/dia-04-javascript-es6-spread-operator-rest-parameters-e-object-destructuring)_
+  - [x] 7-5: _[JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-07-higher-order-functions-do-javascript-e6s/dia-05-array-destructuring-object-property-shorthand-e-default-parameters)_
+  - [x] 7-6: _[Projeto - Zoo functions]()_
 
   ## [Front-end](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end) :hourglass_flowing_sand:
 
-  #### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono]()
+  #### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-01-introducao-ao-frontend-e-javascript-assincrono)
 
-  - [ ] 1-1: _[Ambiente de desenvolvimento]()_
-  - [ ] 1-2: _[JavaScript Assíncrono - Promises e fetch]()_
-  - [ ] 1-3: _[Prática - Casa de câmbio]()_
-  - [ ] 1-4: _[Async, await e testes assíncronos]()_
-  - [ ] 1-5: _[Projeto - Carrinho de compras]()_
+  - [x] 1-1: _[Ambiente de desenvolvimento](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-01-ambiente-de-desenvolvimento)_
+  - [x] 1-2: _[JavaScript Assíncrono - Promises e fetch](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-02-javascript-assincrono-promises-e-fetch)_
+  - [x] 1-3: _[Prática - Casa de câmbio]()_
+  - [x] 1-4: _[Async, await e testes assíncronos]()_
+  - [x] 1-5: _[Projeto - Carrinho de compras]()_
 
-  #### Bloco 2: [Introdução ao React]()
+  #### Bloco 2: [Introdução ao React](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-02-introducao-ao-React)
 
-  - [ ] 2-1: _['Hello, world!' no React!]()_
-  - [ ] 2-2: _[Componentes React]()_
-  - [ ] 2-3: _[Projeto - Solar System]()_
+  - [x] 2-1: _['Hello, world!' no React!](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-02-introducao-ao-React/dia-01-hello-world-no-react/my-app)_
+  - [x] 2-2: _[Componentes React](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-02-introducao-ao-React/dia-02-componentes-react)_
+  - [x] 2-3: _[Projeto - Solar System]()_
 
-  #### Bloco 3: [Componentes com Estado, Eventos e Formulários com React]()
+  #### Bloco 3: [Componentes com Estado, Eventos e Formulários com React](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-03-componentes-com-estados-eventos-e-formularios-com-react)
 
-  - [ ] 3-1: _[Componentes com estado e eventos]()_
-  - [ ] 3-2: _[Formulários no React]()_
-  - [ ] 3-3: _[Projeto - Tryunfo]()_
+  - [x] 3-1: _[Componentes com estado e eventos](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-03-componentes-com-estados-eventos-e-formularios-com-react/dia-01-componentes-com-estado-e-eventos)_
+  - [x] 3-2: _[Formulários no React](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-03-componentes-com-estados-eventos-e-formularios-com-react/dia-02-formularios-no-react/my-form-1.0)_
+  - [x] 3-3: _[Projeto - Tryunfo]()_
 
-  #### Bloco 4: [Ciclo de Vida de Componentes e React Router]()
+  #### Bloco 4: [Ciclo de Vida de Componentes e React Router](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-04-ciclo-de-vida-de-componentes-e-react-router)
 
-  - [ ] 4-1: _[Ciclo de vida de componentes]()_
-  - [ ] 4-2: _[React Router]()_
-  - [ ] 4-3: _[Projeto - TrybeTunes]()_
+  - [x] 4-1: _[Ciclo de vida de componentes](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-04-ciclo-de-vida-de-componentes-e-react-router/dia-01-ciclo-de-vida-componentes)_
+  - [x] 4-2: _[React Router](https://github.com/lucasKoyama/trybe-exercicios/tree/main/modulo-02-front-end/secao-04-ciclo-de-vida-de-componentes-e-react-router/dia-02-react-router/exemplo-history)_
+  - [x] 4-3: _[Projeto - TrybeTunes]()_
   
   #### Bloco 5: [Metodologias Ágeis]()
 
